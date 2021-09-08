@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @javimartinvc
+- 👀 I’m interested in machine learning and data science
+- 🌱 I’m currently a data scientist looking for new challenges
